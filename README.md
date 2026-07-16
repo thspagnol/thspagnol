@@ -1,9 +1,17 @@
-## Olá,, Sou Thiago Spagnol.
+## Olá, Sou Thiago Spagnol.
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=thspagnol&show=reviews,discussions_started,discussions_answered,prs_merged,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&show_icons=true&theme=dark#gh-dark-mode-only)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=thspagnol&layout=pie&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
+## I little bit about me
 
-##
+🎓 &nbsp; \
+🌱 &nbsp; \
+✍️ &nbsp; \
+💬 &nbsp; \
+✉️ &nbsp; \
+📄 &nbsp;Check my [now page](https:/) to get to know me a little better.
+
+---
+
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
 <div style="display: inline_block"><br>
 
@@ -17,8 +25,9 @@
 
           
 </div>
-  
-  ##
+
+
+##
  
 <div> 
   <a href="https://www.instagram.com/th_spagnol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,7 +35,13 @@
   <a href="mailto:spagnolthiago@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-spagnol-656553210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake-animation](https://github.com/thspagnol/thspagnol/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
+  
+##
+
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=thspagnol&show=reviews,discussions_started,discussions_answered,prs_merged,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&show_icons=true&theme=dark#gh-dark-mode-only)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=thspagnol&layout=pie&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
+
+
+![Snake-animation](https://github.com/thspagnol/thspagnol/blob/output/github-contribution-grid-snake.svg)
 
