@@ -42,6 +42,3 @@
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=thspagnol&show=reviews,discussions_started,discussions_answered,prs_merged,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&show_icons=true&theme=dark#gh-dark-mode-only)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=thspagnol&layout=pie&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
 
-
-![Snake-animation](https://github.com/thspagnol/thspagnol/blob/output/github-contribution-grid-snake.svg)
-
